@@ -1,0 +1,10 @@
+Python 3.11.9
+easyocr==1.7.1
+mediapipe==0.10.14
+moviepy==1.0.3
+numpy==2.2.3
+opencv_contrib_python==4.10.0.84
+opencv_python==4.10.0.84
+pandas==2.2.3
+torch==2.3.1+cu121
+ultralytics==8.2.66
