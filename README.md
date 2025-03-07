@@ -9,6 +9,7 @@ Framework Designed to Anonymise personally identifiable information from video d
 
 ## How to use 
 To clone and run this application, you'll need [Git](https://git-scm.com), Along with that ensure that all dependencies mentioned in the requirements.txt are installed as well.
+The video location is given in as the input.Output will be saved as final_output.mp4
 
 ---
 ```bash
